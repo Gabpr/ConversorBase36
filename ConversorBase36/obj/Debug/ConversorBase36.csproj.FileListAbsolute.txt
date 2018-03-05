@@ -1,0 +1,18 @@
+C:\Users\Pilar\source\repos\ConversorBase36\ConversorBase36\bin\Debug\ConversorBase36.exe.config
+C:\Users\Pilar\source\repos\ConversorBase36\ConversorBase36\bin\Debug\ConversorBase36.exe
+C:\Users\Pilar\source\repos\ConversorBase36\ConversorBase36\bin\Debug\ConversorBase36.pdb
+C:\Users\Pilar\source\repos\ConversorBase36\ConversorBase36\obj\Debug\ConversorBase36.csproj.CoreCompileInputs.cache
+C:\Users\Pilar\source\repos\ConversorBase36\ConversorBase36\obj\Debug\ConversorBase36.exe
+C:\Users\Pilar\source\repos\ConversorBase36\ConversorBase36\obj\Debug\ConversorBase36.pdb
+C:\Users\Pilar\Desktop\Exercicis entrega Entornos\5 - ConversorBase36\ConversorBase36\bin\Debug\ConversorBase36.exe.config
+C:\Users\Pilar\Desktop\Exercicis entrega Entornos\5 - ConversorBase36\ConversorBase36\bin\Debug\ConversorBase36.exe
+C:\Users\Pilar\Desktop\Exercicis entrega Entornos\5 - ConversorBase36\ConversorBase36\bin\Debug\ConversorBase36.pdb
+C:\Users\Pilar\Desktop\Exercicis entrega Entornos\5 - ConversorBase36\ConversorBase36\obj\Debug\ConversorBase36.csproj.CoreCompileInputs.cache
+C:\Users\Pilar\Desktop\Exercicis entrega Entornos\5 - ConversorBase36\ConversorBase36\obj\Debug\ConversorBase36.exe
+C:\Users\Pilar\Desktop\Exercicis entrega Entornos\5 - ConversorBase36\ConversorBase36\obj\Debug\ConversorBase36.pdb
+C:\Users\Usuario\Dropbox\Entornos\Primer Trimestre\Ejercicios\Para entregar\Exercicis entrega Entornos\5 - ConversorBase36\ConversorBase36\ConversorBase36\bin\Debug\ConversorBase36.exe.config
+C:\Users\Usuario\Dropbox\Entornos\Primer Trimestre\Ejercicios\Para entregar\Exercicis entrega Entornos\5 - ConversorBase36\ConversorBase36\ConversorBase36\bin\Debug\ConversorBase36.exe
+C:\Users\Usuario\Dropbox\Entornos\Primer Trimestre\Ejercicios\Para entregar\Exercicis entrega Entornos\5 - ConversorBase36\ConversorBase36\ConversorBase36\bin\Debug\ConversorBase36.pdb
+C:\Users\Usuario\Dropbox\Entornos\Primer Trimestre\Ejercicios\Para entregar\Exercicis entrega Entornos\5 - ConversorBase36\ConversorBase36\ConversorBase36\obj\Debug\ConversorBase36.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Dropbox\Entornos\Primer Trimestre\Ejercicios\Para entregar\Exercicis entrega Entornos\5 - ConversorBase36\ConversorBase36\ConversorBase36\obj\Debug\ConversorBase36.exe
+C:\Users\Usuario\Dropbox\Entornos\Primer Trimestre\Ejercicios\Para entregar\Exercicis entrega Entornos\5 - ConversorBase36\ConversorBase36\ConversorBase36\obj\Debug\ConversorBase36.pdb
